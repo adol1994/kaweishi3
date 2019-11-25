@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="login" type="CSS" />
+      <mapping pattern="总结" type="PLAIN_TEXT" />
       <mapping ext="tet" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
